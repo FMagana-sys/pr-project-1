@@ -22,7 +22,6 @@ mapa = lbp.lbp_image(camera) # LBP values Map
 # -----------------Milestone 2---------------------------
 
 h = lbp.lbp_histogram(mapa) 
-print(h)
 
 
     
